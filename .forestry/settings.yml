@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/products
   label: Product portfolio
-  match: "**/*"
 - type: directory
   path: content
   label: Pages
